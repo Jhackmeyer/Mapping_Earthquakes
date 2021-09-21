@@ -35,7 +35,7 @@ L.control.layers(baseMaps).addTo(map)
 
 
 // Accessing the airport GeoJSON URL
-let torontoData = "https://raw.githubusercontent.com/jhackmeyer/Mapping_Earthquakes/main/Mapping_GeoJSON_Multiple_Points/torontoRoutes.json";
+let torontoData = "https://raw.githubusercontent.com/jhackmeyer/Mapping_Earthquakes/main/Mapping_GeoJSON_Linestrings/torontoRoutes.json";
 
 
 // Grabbing our GeoJSON data.
